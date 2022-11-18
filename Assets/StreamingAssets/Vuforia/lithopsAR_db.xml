@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="l_karasmantana1" size="50.000000 37.500000" />
+    <ImageTarget name="l_schwantensii2" size="50.000000 66.666664" />
+    <ImageTarget name="l_schwantensii1" size="50.000000 66.666664" />
+    <ImageTarget name="l-schwantensii-4" size="50.000000 66.682419" />
+    <ImageTarget name="l-schwantensii-3" size="50.000000 66.682419" />
+    <ImageTarget name="l_aucamptae2" size="50.000000 37.500000" />
+    <ImageTarget name="l-aucamptae-1" size="50.000000 66.682419" />
+    <ImageTarget name="l_lesliei4" size="50.000000 37.500000" />
+    <ImageTarget name="l_lesliei3" size="50.000000 37.500000" />
+    <ImageTarget name="l_lesliei2" size="50.000000 37.500000" />
+    <ImageTarget name="l_lesliei1" size="50.000000 37.500000" />
+  </Tracking>
+</QCARConfig>
